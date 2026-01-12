@@ -2,6 +2,7 @@ package lecture2;
 
 import java.util.Scanner;
 
+// 봉우리
 public class Problem10 {
     public int solution(int[][] inputs) {
         int answer = 0;
